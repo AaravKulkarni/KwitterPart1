@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color: lightblue;
+}
+.logo{
+    width: 146px;
+}
+#heading{
+    font-style: italic;
+    font-weight: bold;
+    color: black;
+}
+.form-control{
+    width: 45%;
+    text-align: center;
+    border-radius: 45px;
+}
